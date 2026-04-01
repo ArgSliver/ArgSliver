@@ -2,9 +2,12 @@ name: Generate Datas
 
 on:
   schedule:
-    # Changed from * to 0 so it runs once every 12 hours, not every minute
     - cron: "0 */12 * * *"
   workflow_dispatch:
+
+# THIS BLOCK GRANTS THE BOT PERMISSION TO PUSH TO THE REPO
+permissions:
+  contents: write
 
 jobs:
   build:
