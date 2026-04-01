@@ -5,4 +5,5 @@
 
 
 
-![Snake animation](https://github.com/ArgSliver/ArgSliver/blob/output/github-contribution-grid-snake.svg)
+![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/ArgSliver/ArgSliver/output/github-snake-dark.svg)
+)
