@@ -1,5 +1,7 @@
 ## 48 61 76 65  66 75 6E 21
-__                                                               
+
+```text
+ __                                                               
 /\ \       __                                                     
 \ \ \     /\_\    ___   __  __  __  _                             
  \ \ \  __\/\ \ /' _ `\/\ \/\ \/\ \/'\                            
@@ -16,7 +18,8 @@ __
    \ \_\ \_\ \_\\ \____ \ `\____\/\____\\ \_\ \___/ \ \____\\ \_\ 
     \/_/\/_/\/_/ \/___L\ \/_____/\/____/ \/_/\/__/   \/____/ \/_/ 
                    /\____/                                        
-                   \_/__/
+                   \_/__
+```
 [![My Skills](https://skillicons.dev/icons?i=linux,windows,apple,cpp,visualstudio,vscode,pr,raspberrypi,gmail,instagram,git,github,discord,mint,debian,redhat,kali,cloudflare&perline=9)](https://skillicons.dev)
 
 
